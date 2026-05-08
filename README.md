@@ -38,19 +38,6 @@ Target Variable:
 
 ---
 
-## Data Visualization
-
-### Stroke Distribution
-![Stroke Distribution](images/stroke_distribution.png)
-
-### Age vs Stroke
-![Age vs Stroke](images/age_vs_stroke.png)
-
-### Correlation Heatmap
-![Heatmap](images/heatmap.png)
-
----
-
 ## Machine Learning Model
 Model Used:
 - Logistic Regression
